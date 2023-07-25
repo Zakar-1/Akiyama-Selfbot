@@ -1,0 +1,27 @@
+Disclaimer:
+    
+The following disclaimer applies to the use and distribution of the open-source Python software Despair developed by Synchronos Shop, owned by Takaso, Dante, and Zakar. By using or accessing the Software, you agree to be bound by the terms and conditions set forth in this disclaimer.
+
+1. License and Ownership:
+The Software is released under an open-source license, and its source code is made available to the public. However, Synchronos Shop, Takaso, Dante, and Zakar retain all ownership rights to the original codebase and any modifications made by them. The open-source license governs the terms of use, distribution, and modification of the Software.
+
+2. Prohibited Resale and Distribution:
+While the Software is open source, you are prohibited from reselling the Software or distributing it for commercial purposes without explicit written permission from Synchronos Shop, Takaso, Dante, and Zakar. Commercial purposes include selling the Software as part of a software package, standalone product, or bundled with other products. Additionally, you are not allowed to give away the Software for free as part of a commercial offering without prior written permission from the owners.
+
+3. License Compliance:
+When distributing the Software or any modifications thereof, you must comply with the terms and conditions of the open-source license under which the Software is released. This includes providing proper attribution, retaining copyright notices, and making the source code available to recipients of the Software.
+
+4. Disclaimer of Warranty:
+The Software is provided on an "as-is" basis, without any warranties or conditions, express or implied. Synchronos Shop, Takaso, Dante, and Zakar disclaim all warranties, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. The entire risk arising out of the use or performance of the Software remains with you.
+
+5. Limitation of Liability:
+In no event shall Synchronos Shop, Takaso, Dante, or Zakar be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, data, or other intangible losses, arising out of or in connection with the use or inability to use the Software, even if they have been advised of the possibility of such damages.
+
+6. Governing Law:
+This disclaimer shall be governed by and construed in accordance with the laws of Italy, without regard to its conflict of laws principles.
+
+By using or accessing the Software, you acknowledge that you have read, understood, and agreed to be bound by this disclaimer. If you do not agree with any part of this disclaimer, you must not use or access the Software.
+
+For any questions or inquiries regarding this disclaimer, please contact the owners through the designated channels provided by Synchronos Shop.
+
+Date: May 22, 2023
